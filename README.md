@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Twak - A Real-Time Video Conferencing App (Yoom) using Next.js 14.
+# Twak - A Real-Time Video Conferencing App (Loom) using Next.js 14.
 
 <!-- Table of Contents
 <details>
@@ -141,7 +141,7 @@ STREAM_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Acknowledgements
 
-Useful resources and dependencies that are used in Yoom.
+Useful resources and dependencies that are used in Loom.
 
 - [@clerk/nextjs](https://www.npmjs.com/package/@clerk/nextjs) - Version: ^5.2.3
 - [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog) - Version: ^1.1.1
